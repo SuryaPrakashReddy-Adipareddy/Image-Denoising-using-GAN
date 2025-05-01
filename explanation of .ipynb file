@@ -1,0 +1,13 @@
+This notebook:
+
+Clones the GFPGAN repository.
+
+Installs dependencies.
+
+Downloads the pretrained model.
+
+Allows uploading noisy images via Google Colab.
+
+Runs inference with inference_gfpgan.py.
+
+Displays output images.
