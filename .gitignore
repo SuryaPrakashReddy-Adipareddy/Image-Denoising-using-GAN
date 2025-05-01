@@ -1,0 +1,5 @@
+__pycache__/
+*.pth
+*.ckpt
+.ipynb_checkpoints/
+experiments/pretrained_models/*
